@@ -72,3 +72,5 @@ Word counts come from the `## Chapter Text` body of each chapter file. The `repo
 ## Acknowledgments
 
 Built with [Story Skills](https://github.com/danjdewhurst/story-skills), agent skills for end-to-end story writing in markdown. The vendored skills under `.agents/skills/` drove the worldbuilding, drafting, continuity checks, and maintenance passes.
+
+Written with `muse-spark-1.3-contributor`.
