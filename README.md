@@ -68,3 +68,7 @@ pippa-and-the-borrowed-star/
   6. Morning Light, 367 words
 
 Word counts come from the `## Chapter Text` body of each chapter file. The `report` command regenerates the totals.
+
+## Acknowledgments
+
+Built with [Story Skills](https://github.com/danjdewhurst/story-skills), agent skills for end-to-end story writing in markdown. The vendored skills under `.agents/skills/` drove the worldbuilding, drafting, continuity checks, and maintenance passes.
